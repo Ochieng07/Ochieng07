@@ -10,7 +10,12 @@
 
 # Hi, I'm Ochieng 👋
 
-![Full Stack](https://shields.io) ![AI Chatbots](https://shields.io) ![Cloud Engineering](https://shields.io) ![Open Source](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Full Stack">
+  <img src="https://shields.io" alt="AI Chatbots">
+  <img src="https://shields.io" alt="Cloud Engineering">
+  <img src="https://shields.io" alt="Open Source">
+</p>
 
 ### About Me
 * **Full-Stack Developer** specializing in modern web ecosystems.
@@ -25,13 +30,27 @@ Full-Stack & Local AI Engineering
 
 ### My Tech Stack
 #### AI & Machine Learning 🧠
-![Ollama](https://shields.io) ![RAG Architecture](https://shields.io) ![Vector DB](https://shields.io) ![Python](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Ollama">
+  <img src="https://shields.io" alt="RAG Architecture">
+  <img src="https://shields.io" alt="Vector DB">
+  <img src="https://shields.io" alt="Python">
+</p>
 
 #### Frontend & Backend 💻
-![React](https://shields.io) ![Node.js](https://shields.io) ![PHP Laravel](https://shields.io) ![Database MySQL](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="React">
+  <img src="https://shields.io" alt="Node.js">
+  <img src="https://shields.io" alt="Laravel">
+  <img src="https://shields.io" alt="MySQL">
+</p>
 
 #### Cloud & DevOps ☁️
-![AWS](https://shields.io) ![Docker](https://shields.io) ![Linux](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="AWS">
+  <img src="https://shields.io" alt="Docker">
+  <img src="https://shields.io" alt="Linux">
+</p>
 
 ### Featured Projects
 * **edudata-sync** – Integrated data synchronization engine.
@@ -43,5 +62,3 @@ Full-Stack & Local AI Engineering
   <img src="https://vercel.app" alt="Ochieng07 Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
-
-
