@@ -18,9 +18,9 @@
 </p>
 
 ### About Me
-* **Full-Stack Developer** specializing in modern web ecosystems.
-* **AI Engineer** focused on privacy-first local LLM integration and context-aware systems.
-* Passionate about building sleek frontends, robust APIs, and integrating smart workflows.
+Full-Stack Developer** specializing in modern web ecosystems.
+AI Chart bot Developer** focused on privacy-first local LLM integration and context-aware systems.
+Passionate about building sleek frontends, robust APIs, and integrating smart workflows.
 
 ### Developer Environment
 ```bash
@@ -37,7 +37,7 @@ Full-Stack & Local AI Engineering
   <img src="https://shields.io" alt="Python">
 </p>
 
-#### Frontend & Backend 💻
+#### Frontend & Backend 
 <p align="left">
   <img src="https://shields.io" alt="React">
   <img src="https://shields.io" alt="Node.js">
@@ -45,7 +45,7 @@ Full-Stack & Local AI Engineering
   <img src="https://shields.io" alt="MySQL">
 </p>
 
-#### Cloud & DevOps ☁️
+#### Cloud & DevOps 
 <p align="left">
   <img src="https://shields.io" alt="AWS">
   <img src="https://shields.io" alt="Docker">
@@ -53,9 +53,9 @@ Full-Stack & Local AI Engineering
 </p>
 
 ### Featured Projects
-* **edudata-sync** – Integrated data synchronization engine.
-* **car-parking-web-app** – Smart full-stack parking management system.
-* **Local RAG Chatbot** – Secure, privacy-first conversational AI powered by Ollama and custom document retrieval.
+edudata-sync** – Integrated data synchronization engine.
+car-parking-web-app** – Smart full-stack parking management system.
+Local RAG Chatbot** – Secure, privacy-first conversational AI powered by Ollama and custom document retrieval.
 
 ### GitHub Stats
 <p align="center">
