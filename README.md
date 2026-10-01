@@ -1,64 +1,47 @@
-## Connect With Me 🤝
-<p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://shields.io" alt="Email"></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-</p>
+# Hi, I'm Brian Ochieng 👋
+**Full-Stack Software Developer & AI Integration Engineer**
 
 > 🤖 *Building intelligent, full-stack solutions to bridge human intent and machine execution.*
 
 ---
 
-# Hi, I'm Ochieng 👋
+### 💻 Profile Summary
+* **Background:** Computer Science Graduate specializing in modern web ecosystems and local AI deployments.
+* **Core Focus:** Building sleek user frontends, writing robust backend APIs, and engineering privacy-first local LLM workflows.
+* **Philosophy:** Clean code, decoupled architecture, and proactive performance monitoring.
 
-<p align="left">
-  <img src="https://shields.io" alt="Full Stack">
-  <img src="https://shields.io" alt="AI Chatbots">
-  <img src="https://shields.io" alt="Cloud Engineering">
-  <img src="https://shields.io" alt="Open Source">
-</p>
+---
 
-### About Me
-Full-Stack Developer** specializing in modern web ecosystems.
-AI Chart bot Developer** focused on privacy-first local LLM integration and context-aware systems.
-Passionate about building sleek frontends, robust APIs, and integrating smart workflows.
+### 🛠️ Technical Expertise
 
-### Developer Environment
-```bash
-ochieng@dev-env:~\$ whoami --skills
-Full-Stack & Local AI Engineering
-```
+#### 🧠 Artificial Intelligence & RAG
+* **Local LLM Orchestration:** Ollama AI
+* **Architectures:** Retrieval-Augmented Generation (RAG) pipelines
+* **Context Storage:** Vector Databases (ChromaDB / FAISS)
+* **Core Language:** Python 3.x
 
-### My Tech Stack
-#### AI & Machine Learning 🧠
-<p align="left">
-  <img src="https://shields.io" alt="Ollama">
-  <img src="https://shields.io" alt="RAG Architecture">
-  <img src="https://shields.io" alt="Vector DB">
-  <img src="https://shields.io" alt="Python">
-</p>
+#### 🌐 Full-Stack Development
+* **Frontend Technologies:** React, JavaScript, Tailwind CSS, HTML5
+* **Backend Frameworks:** PHP, Laravel, Node.js
+* **Database Systems:** MySQL, Relational Database Design
 
-#### Frontend & Backend 
-<p align="left">
-  <img src="https://shields.io" alt="React">
-  <img src="https://shields.io" alt="Node.js">
-  <img src="https://shields.io" alt="Laravel">
-  <img src="https://shields.io" alt="MySQL">
-</p>
+#### ☁️ DevOps & Infrastructure
+* **Cloud Platforms:** Amazon Web Services (AWS)
+* **Containers & Environments:** Docker
 
-#### Cloud & DevOps 
-<p align="left">
-  <img src="https://shields.io" alt="AWS">
-  <img src="https://shields.io" alt="Docker">
-  <img src="https://shields.io" alt="Linux">
-</p>
+---
 
-### Featured Projects
-edudata-sync** – Integrated data synchronization engine.
-car-parking-web-app** – Smart full-stack parking management system.
-Local RAG Chatbot** – Secure, privacy-first conversational AI powered by Ollama and custom document retrieval.
+### 🚀 Featured Projects
+* **Education Emergency Anticipatory Action System:** Contributed to data engineering and proactive system frameworks.
+* **Student Data Verification System:** Developed secure verification pipelines optimizing identity matching workflows.
+* **Elimu Trees Platform:** Built tracking components supporting environmental sustainability workflows.
+* **Local Document RAG Chatbot:** Designed a private, secure corporate chat assistant using Ollama and localized knowledge bases.
+* **Smart Car Parking Web App:** Developed an end-to-end full-stack portal managing operational tracking.
 
-### GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="Ochieng07 Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+---
+
+### 🤝 Let's Connect!
+If you're looking for a developer to help integrate private AI workflows or build performant web applications, let's get in touch:
+
+* **Email:** brianotieno887@gmail.com
+* **LinkedIn:** www.linkedin.com/in/brian-otieno-dev
